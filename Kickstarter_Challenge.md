@@ -12,14 +12,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
  
-  * In order to display data about launch dates , data was pulled from the kickstarter spreadsheet. The column that contains "Date conversion " was used to create a new column that contained information based on the year the play was launched.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111592990/188303951-8d79af51-abeb-4392-b6ff-f26084cf1951.png)
-
-
-  * a new pivot table was created using information from previous step.
+  * In order to display data about launch dates , data was pulled from the kickstarter spreadsheet. The column that contains "Date conversion " was used to create a new column that contained information based on the year the play was launched.
+  * a new stacked line chart was created using information from previous step.
   * Pivot table was filtered by "parent category" and "years." "Date Conversion" was used in rows, "outcomes" was placed both under columns and values.
   * this is the pivot table that resulted ![outcome_based_on_launch_date](path/to/outcomebasedonlaunchdate.png)
   *  a stacked line chart was created using information from the pivot table ![parent_category](path/to/parent_catefory.png)
-   * data showed that there has been more successful campaigns than any other outcome regardless of the year of month. May is the best month for successful campaigns.
+   * data showed that there has been more successful campaigns than any other outcome regardless of the year of month. May is the best month for successful campaigns.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111592990/188303951-8d79af51-abeb-4392-b6ff-f26084cf1951.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -27,9 +25,9 @@
   * a new table was created using information from The columns that contains "Goal", "subcategory " and "outcome'
  * the table was sepearted into 12 categories based on the range of the goal.
 
-  *  a stacked line chart was created using information from the table ![Outcome_vs_Goals](path/to/Outcomes_vs_Goal.png)
-   
+  *  a stacked line chart was created using information from the table ![Outcome_vs_Goals](path/to/Outcomes_vs_Goal.png)![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111592990/188304032-2206fca3-b51b-4e5b-a604-3ff775115da1.png)
 
+   
 
 ## Results
 
@@ -48,5 +46,5 @@
 
 - What are some other possible tables and/or graphs that we could create?
     1. Outcomes based on Percentaged Funded , to see if exceeding a Goal affected outcomes
-    2. 
+    
 
