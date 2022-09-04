@@ -17,7 +17,8 @@
   * Pivot table was filtered by "parent category" and "years." "Date Conversion" was used in rows, "outcomes" was placed both under columns and values.
   * this is the pivot table that resulted ![outcome_based_on_launch_date](path/to/outcomebasedonlaunchdate.png)
   *  a stacked line chart was created using information from the pivot table ![parent_category](path/to/parent_catefory.png)
-   * data showed that there has been more successful campaigns than any other outcome regardless of the year of month. May is the best month for successful campaigns.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111592990/188303951-8d79af51-abeb-4392-b6ff-f26084cf1951.png)
+   * data showed that there has been more successful campaigns than any other outcome regardless of the year of month. May is the best month for successful campaigns.!![Theater_Outcome_vs_Launch](https://user-images.githubusercontent.com/111592990/188304079-979acf05-5ff6-41cd-b655-a5c2fbfe8fec.png)
+
 
 ### Analysis of Outcomes Based on Goals
 
