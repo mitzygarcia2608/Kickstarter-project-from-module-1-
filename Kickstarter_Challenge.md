@@ -12,10 +12,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
  
-  * In order to display data about launch dates , data was pulled from the kickstarter spreadsheet. The column that contains "Date conversion " was used to create a new column that contained information based on the year the play was launched.
+  * In order to display data about launch dates , data was pulled from the kickstarter spreadsheet. The column that contains "Date conversion " was used to create a new column that contained information based on the year the play was launched.![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111592990/188303951-8d79af51-abeb-4392-b6ff-f26084cf1951.png)
+
+
   * a new pivot table was created using information from previous step.
   * Pivot table was filtered by "parent category" and "years." "Date Conversion" was used in rows, "outcomes" was placed both under columns and values.
-  * this is the pivot table that resulted ![outcome_based_on_launch_date](path/to/outcome_based_on_launch_date.png)
+  * this is the pivot table that resulted ![outcome_based_on_launch_date](path/to/outcomebasedonlaunchdate.png)
   *  a stacked line chart was created using information from the pivot table ![parent_category](path/to/parent_catefory.png)
    * data showed that there has been more successful campaigns than any other outcome regardless of the year of month. May is the best month for successful campaigns.
 
